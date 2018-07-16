@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+"""identic script"""
+
+from identic.main import main
+
+main()
